@@ -1,4 +1,7 @@
-### Hi there 👋
+<h2 align="center">hi i'm carolyn</h2>
+
+<h3 align="center">i eat, breath and sleep code and this is my github mess</h3>
+
 
 <!--
 **cndavi/cndavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
