@@ -1,6 +1,6 @@
-<h2 align="center">hi i'm carolyn</h2>
+<h2 align="center">hi i'm carolyn.</h2>
 
-<h3 align="center">i eat, breath and sleep code and this is my github mess</h3>
+<h3 align="center">i eat, breath and sleep code. welcome to my github mess.</h3>
 
 
 <!--
