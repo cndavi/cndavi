@@ -1,8 +1,8 @@
 <h2 align="center">hi i'm carolyn.</h2>
 
-<h4 align="center">i eat, breath and sleep code.</h4>
-<h4 align="center">i'm always on the hunt for the perfect folder structure.</h4>
-<h4 align="center">welcome to my github mess.</h4>
+<h3 align="center">i eat, breath and sleep code.</h3>
+<h3 align="center">i'm always on the hunt for the perfect folder structure.</h3>
+<h3 align="center">welcome to my github mess.</h3>
 
 
 <!--
