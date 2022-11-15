@@ -2,8 +2,6 @@
 
 <h3 align="center">i'm always on the hunt for the perfect folder structure.</h3>
 
-bla
-
 
 <!--
 **cndavi/cndavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
